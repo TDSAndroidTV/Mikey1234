@@ -1,3 +1,6 @@
+V1.3
+Better search results
+
 V1.2
 Added "Found Languages" In Easynews Search
 Added "OUT ON DVD AND BLURAY"
